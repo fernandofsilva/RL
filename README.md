@@ -1,7 +1,14 @@
 # Reinforcement Learning
 
+## Theory
+
 ### [Monte Carlo Methods](https://github.com/fernandofsilva/Reinforcement_Learning/blob/main/notebooks/monte_carlo.ipynb)
 Notebook solving the OpenAI Gym BlackJack environment
+
+### [Temporal Difference Methods](https://github.com/fernandofsilva/Reinforcement_Learning/blob/main/notebooks/Temporal_Difference.ipynb)
+Notebook solving the OpenAI Gym CliffWalking environment
+
+## Projects
 
 
 ## License

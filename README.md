@@ -2,7 +2,7 @@
 
 ## Projects
 
-
+[OpenAI Gym's Taxi](https://github.com/fernandofsilva/Reinforcement_Learning/tree/main/projects/Taxi)
 
 ## Exercises
 

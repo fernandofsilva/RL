@@ -7,10 +7,10 @@ Reference [paper](https://arxiv.org/pdf/cs/9905014.pdf)
 
 ## Exercises
 
-### [Monte Carlo Methods](https://github.com/fernandofsilva/Reinforcement_Learning/blob/main/notebooks/mc/monte_carlo.ipynb)
+### [Monte Carlo Methods](https://github.com/fernandofsilva/Reinforcement_Learning/blob/main/notebooks/mc/Monte_Carlo.ipynb)
 Notebook solving the OpenAI Gym BlackJack environment
 
-### [Temporal Difference Methods](https://github.com/fernandofsilva/Reinforcement_Learning/blob/main/notebooks/mc/Temporal_Difference.ipynb)
+### [Temporal Difference Methods](https://github.com/fernandofsilva/Reinforcement_Learning/blob/main/notebooks/td/Temporal_Difference.ipynb)
 Notebook solving the OpenAI Gym CliffWalking environment
 
 ### [Tile Coding](https://github.com/fernandofsilva/Reinforcement_Learning/blob/main/notebooks/tile/Tile_Coding.ipynb)

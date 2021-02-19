@@ -14,7 +14,7 @@ Project for solving the OpenAI Gym LunarLander environment
 
 ## Examples
 
-[Monte Carlo Methods](https://github.com/fernandofsilva/Reinforcement_Learning/blob/main/notebooks/mc/Monte_Carlo.ipynb): 
+- [Monte Carlo Methods](https://github.com/fernandofsilva/Reinforcement_Learning/blob/main/notebooks/mc/Monte_Carlo.ipynb): 
 Notebook solving the OpenAI Gym BlackJack environment
 
 [Temporal Difference Methods](https://github.com/fernandofsilva/Reinforcement_Learning/blob/main/notebooks/td/Temporal_Difference.ipynb): 

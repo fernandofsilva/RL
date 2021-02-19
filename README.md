@@ -12,21 +12,21 @@ Project for solving the OpenAI Gym Taxi environment
 Project for solving the OpenAI Gym LunarLander environment
 
 
-## Exercises
+## Examples
 
-[Monte Carlo Methods](https://github.com/fernandofsilva/Reinforcement_Learning/blob/main/notebooks/mc/Monte_Carlo.ipynb)
+[Monte Carlo Methods](https://github.com/fernandofsilva/Reinforcement_Learning/blob/main/notebooks/mc/Monte_Carlo.ipynb): 
 Notebook solving the OpenAI Gym BlackJack environment
 
-[Temporal Difference Methods](https://github.com/fernandofsilva/Reinforcement_Learning/blob/main/notebooks/td/Temporal_Difference.ipynb)
+[Temporal Difference Methods](https://github.com/fernandofsilva/Reinforcement_Learning/blob/main/notebooks/td/Temporal_Difference.ipynb): 
 Notebook solving the OpenAI Gym CliffWalking environment
 
-[Tile Coding](https://github.com/fernandofsilva/Reinforcement_Learning/blob/main/notebooks/tile/Tile_Coding.ipynb)
+[Tile Coding](https://github.com/fernandofsilva/Reinforcement_Learning/blob/main/notebooks/tile/Tile_Coding.ipynb): 
 Notebook solving the OpenAI Gym Acrobot environment
 
-[Discretization](https://github.com/fernandofsilva/Reinforcement_Learning/blob/main/notebooks/discretization/Discretization.ipynb)
+[Discretization](https://github.com/fernandofsilva/Reinforcement_Learning/blob/main/notebooks/discretization/Discretization.ipynb): 
 Notebook solving the OpenAI Gym MountainCar environment
 
-[Deep Q Network](https://github.com/fernandofsilva/Reinforcement_Learning/blob/main/notebooks/dqn/Deep_Q_Network.ipynb)
+[Deep Q Network](https://github.com/fernandofsilva/Reinforcement_Learning/blob/main/notebooks/dqn/Deep_Q_Network.ipynb): 
 Notebook solving the OpenAI Gym LunarLander environment
 
 ## License

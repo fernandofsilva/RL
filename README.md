@@ -2,7 +2,7 @@
 
 ## Projects
 
-### [OpenAI Gym's Taxi](https://github.com/fernandofsilva/Banana_Collector)
+### [Banana's Collector](https://github.com/fernandofsilva/Banana_Collector)
 Project for solving Unity ML-Agent Banana Collector environment
 
 ### [OpenAI Gym's Taxi](https://github.com/fernandofsilva/Taxi)

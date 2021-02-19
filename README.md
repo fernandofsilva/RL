@@ -2,8 +2,15 @@
 
 ## Projects
 
-### [OpenAI Gym's Taxi](https://github.com/fernandofsilva/Reinforcement_Learning/tree/main/projects/Taxi)
-Reference [paper](https://arxiv.org/pdf/cs/9905014.pdf)
+### [OpenAI Gym's Taxi](https://github.com/fernandofsilva/Banana_Collector)
+Project for solving Unity ML-Agent Banana Collector environment
+
+### [OpenAI Gym's Taxi](https://github.com/fernandofsilva/Taxi)
+Project for solving the OpenAI Gym Taxi environment
+
+### [OpenAI Gym's Lunar Lander](https://github.com/fernandofsilva/LunarLander)
+Project for solving the OpenAI Gym LunarLander environment
+
 
 ## Exercises
 

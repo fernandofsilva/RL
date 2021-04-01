@@ -1,5 +1,7 @@
 # Reinforcement Learning
 
+This repository is aiming to concentrate all the information about projects and literature about Reinforcement Learning
+
 
 ## Personal Projects
 
@@ -37,6 +39,8 @@ Notebook solving the OpenAI Gym MountainCar environment
 
 - [Deep Q Network](https://github.com/fernandofsilva/Reinforcement_Learning/blob/main/notebooks/dqn/Deep_Q_Network.ipynb): 
 Notebook solving the OpenAI Gym LunarLander environment
+
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/fernandofsilva/Reinforcement_Learning/blob/main/LICENSE) file for details

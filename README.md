@@ -1,21 +1,24 @@
 # Reinforcement Learning
 
+
 ## Personal Projects
 
+
 #### [Collaboration and Competition](https://github.com/fernandofsilva/Tennis)
-Project for solving Unity ML-Agent Tennis environment
+Project for solving Unity ML-Agent Tennis environment using MADDPG
 
 #### [Continuos Control](https://github.com/fernandofsilva/Reacher)
-Project for solving Unity ML-Agent Reacher environment
+Project for solving Unity ML-Agent Reacher environment using DDPG
 
 #### [Navigation](https://github.com/fernandofsilva/Banana_Collector)
-Project for solving Unity ML-Agent Banana Collector environment
+Project for solving Unity ML-Agent Banana Collector environment using Deep Q-Learning
 
-#### [OpenAI Gym's Taxi](https://github.com/fernandofsilva/Taxi)
+#### [DQN](https://github.com/fernandofsilva/LunarLander)
+Project for solving the OpenAI Gym LunarLander environment
+
+#### [Q-Learning](https://github.com/fernandofsilva/Taxi)
 Project for solving the OpenAI Gym Taxi environment
 
-#### [OpenAI Gym's Lunar Lander](https://github.com/fernandofsilva/LunarLander)
-Project for solving the OpenAI Gym LunarLander environment
 
 
 ## Examples

@@ -1,8 +1,14 @@
 # Reinforcement Learning
 
-## Projects
+## Personal Projects
 
-#### [Banana's Collector](https://github.com/fernandofsilva/Banana_Collector)
+#### [Collaboration and Competition](https://github.com/fernandofsilva/Tennis)
+Project for solving Unity ML-Agent Tennis environment
+
+#### [Continuos Control](https://github.com/fernandofsilva/Reacher)
+Project for solving Unity ML-Agent Reacher environment
+
+#### [Navigation](https://github.com/fernandofsilva/Banana_Collector)
 Project for solving Unity ML-Agent Banana Collector environment
 
 #### [OpenAI Gym's Taxi](https://github.com/fernandofsilva/Taxi)
